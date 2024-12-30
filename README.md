@@ -28,6 +28,7 @@ The repository includes Jupyter notebooks for the analyses conducted in the stud
 
 - **`demo_vacc/`**: Contains all the demographic data used in `Compile_and_clean_state_data.py`. This includes state-level vaccination data segmented by race, ethnicity, and other demographics.
 - **`other_data/`**: Includes all additional datasets required for `Compile_and_clean_state_data.py`, such as population data and FIPS codes.
+- **`cleaned_data/`**: Includes all additional datasets produced by `Compile_and_clean_state_data.py`, including data for states with and without normalization.
 
 ## How to Use This Repository
 
