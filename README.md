@@ -14,3 +14,25 @@ This repository contains the manuscript and associated materials for the study: 
   - Insufficient county-scale data poses challenges for disparity analysis.
   - CDC funding often misaligned with regions of greatest need.
 - **Implications:** Importance of targeted interventions and granular data collection to address vaccination inequities.
+
+## Coding Files
+
+The repository includes Jupyter notebooks for the analyses conducted in the study:
+
+- `HD_Funding Plots.ipynb`: Analyzes the impact of CDC funding on disparities affecting Hispanic and Black populations.
+- `HD_Scatterplots.ipynb`: Examines the relationship between Black and Hispanic disparities and the number of individuals vaccinated within these groups.
+- `T-Test Analysis.ipynb`: Performs T-tests to determine the statistical significance of observed disparities.
+- `HD_maps1.ipynb`: Creates maps to visually demonstrate Black and Hispanic disparities in the US.
+
+## How to Use This Repository
+
+1. **Analysis:** Explore the Jupyter notebooks in the `code/` folder for detailed analysis workflows.
+2. **Data Insights:** If data is included, it will be in the `data/` folder for replication or further exploration.
+
+## Contact
+
+For questions or collaborations, please reach out to:
+
+Shweta Bansal, Ph.D  
+[Institution Name]  
+[Email Address]
