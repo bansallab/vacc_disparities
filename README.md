@@ -24,10 +24,17 @@ The repository includes Jupyter notebooks for the analyses conducted in the stud
 - `T-Test Analysis.ipynb`: Performs T-tests to determine the statistical significance of observed disparities.
 - `HD_maps1.ipynb`: Creates maps to visually demonstrate Black and Hispanic disparities in the US.
 
+## Data Folders
+
+- **`demo_vacc/`**: Contains all the demographic data used in `Compile_and_clean_state_data.py`. This includes state-level vaccination data segmented by race, ethnicity, and other demographics.
+- **`other_data/`**: Includes all additional datasets required for `Compile_and_clean_state_data.py`, such as population data and FIPS codes.
+
 ## How to Use This Repository
 
 1. **Analysis:** Explore the Jupyter notebooks in the `code/` folder for detailed analysis workflows.
-2. **Data Insights:** If data is included, it will be in the `data/` folder for replication or further exploration.
+2. **Data Preparation:** The `demo_vacc/` and `other_data/` folders provide the necessary input data for `Compile_and_clean_state_data.py`.
+3. **Data Insights:** If additional data is included, it will be located in the respective folders for replication or further exploration.
+on.
 
 ## Contact
 
