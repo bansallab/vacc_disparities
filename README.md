@@ -35,7 +35,13 @@ The repository includes Jupyter notebooks for the analyses conducted in the stud
 1. **Analysis:** Explore the Jupyter notebooks in the `code/` folder for detailed analysis workflows.
 2. **Data Preparation:** The `demo_vacc/` and `other_data/` folders provide the necessary input data for `Compile_and_clean_state_data.py`.
 3. **Data Insights:** If additional data is included, it will be located in the respective folders for replication or further exploration.
-on.
+
+## Citation
+
+If you use the data or scripts from this repository, please cite as follows:
+
+> Costello, N., Merritt, A., & Bansal, S. (2024). Geographic heterogeneity in racial and ethnic disparities in COVID-19 vaccination in the US. Data repository. [Repository Link or DOI]
+
 
 ## Contact
 
